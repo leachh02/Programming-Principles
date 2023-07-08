@@ -14,7 +14,6 @@ Inheritance
 Polymorphism
 
  ## Code:
-
 code - a folder that contains C# files for a buy and sell console application.
 
 ## Tech
